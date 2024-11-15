@@ -1,0 +1,25 @@
+* 
+{
+
+}
+body {
+	background-color: #4A628A;
+	color: #240750;
+}
+
+.container {
+	background-color: #7AB2D3 ;
+	text-align: center;
+	padding: 30px;
+}
+.table {
+	text-align: center;
+	background-color: #608BC1;
+}
+
+.img-thumbnail {
+  border: 5px solid #608BC1;
+}
+
+
+
